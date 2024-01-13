@@ -4,7 +4,7 @@ My name is Alex, I am an Android developer, working at [Etnetera Flow](https://f
 
 Passionate about Kotlin and Compose 😻
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksandrbalan&hide=contribs&custom_title=Alex%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksandrbalan&number_format=long&hide=contribs&custom_title=Alex%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/oleksandr-balan-a19198102/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
